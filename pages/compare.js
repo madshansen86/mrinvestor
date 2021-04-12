@@ -3,8 +3,6 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Cardcontainer from '../lenderCard/cardcontainer.js'
 
-
-
 export default function Compare() {
   return (
   <>
